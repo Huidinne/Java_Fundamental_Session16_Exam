@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class HN_KS24_CNTT2_DinhQuangHuy {
     public static void main(String[] args) {
 
         ProductRepository repo = new ProductRepository();
